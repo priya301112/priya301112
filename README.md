@@ -1,4 +1,5 @@
-![logo](https://github.com/priya301112/priya301112/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/priya301112/priya301112/blob/main/github-header-image%20(1).jpg)
+
 <h1 align="center">Hi 👋, I'm Priya Kamble</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
